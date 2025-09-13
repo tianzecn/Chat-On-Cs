@@ -1,0 +1,8 @@
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - core-js
+  - core-js-pure
+  - electron
+  - lzma-native
+  - sqlite3
+  - unrs-resolver
